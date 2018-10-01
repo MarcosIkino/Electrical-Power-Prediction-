@@ -1,2 +1,2 @@
 # Project1-Electrical-generation-prediction
-Electrical power generation in a gas turbine power plant
+This project presents the prediction of the electrical power generation in a gas turbine power plant, using language R.
